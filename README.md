@@ -5,3 +5,5 @@ I am going to proxmox because they don't do this bullshit, vmware and all their 
 I Support Louis Rossman and all his sentiment on these kinds of behaviors.
 
 True Open Source (without the protectionist pearl clutching politics and corporate slop) and True Open Hardware Standards (without arbitrary Implementers (read grifters) Forums that charge absurd fees), forever!
+
+If you're gonna get that mad about this, I'd rather take the repo down than deal with losing my account which has lots of work on it.
